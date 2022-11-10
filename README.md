@@ -24,11 +24,11 @@
 - 🔥 &nbsp;My Greatest Power - **I can learn stuffs very quickly & implement on demand !**
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManiruzzamanAkash&label=Profile%20views&color=0e75b6&style=flat" alt="ManiruzzamanAkash" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=denkogee&label=Profile%20views&color=0e75b6&style=flat" alt="denkogee" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManiruzzamanAkash" alt="ManiruzzamanAkash" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denkogee" alt="denkogee" /></a> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/ManiruzzamanAk" target="blank"><img src="https://img.shields.io/twitter/follow/ManiruzzamanAk?logo=twitter&style=for-the-badge" alt="ManiruzzamanAk" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/denkogee" target="blank"><img src="https://img.shields.io/twitter/follow/denkogee?logo=twitter&style=for-the-badge" alt="denkogee" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"><a href="https://git-scm.com/" target="_blank"> 
@@ -68,12 +68,12 @@
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 
-<!-- <p align="left"><a href="mailto:manirujjamanakash@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/gmail-new.png" alt="ManiruzzamanAkash" height="40" width="40" /></a>&nbsp;<a href="https://twitter.com/ManiruzzamanAk" target="blank" ><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://www.linkedin.com/in/maniruzzamanakash/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://stackoverflow.com/users/5543577/maniruzzaman-akash" target="blank"><img align="center" src="https://img2.pngio.com/stackoverflow-icon-stack-overflow-png-512_512.png" alt="705293/ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://fb.com/maniruzzaman.akash" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" alt="ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://maniruzzamanakash.medium.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://www.youtube.com/channel/UCHNblf0ynrP1DvoIO-ikgGg" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" alt="ManiruzzamanAkash" height="40" width="40" /></a> &nbsp;<a href="https://www.hackerrank.com/Maniruzzaman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="ManiruzzamanAkash" height="40" width="40" /></a></p> -->
+<!-- <p align="left"><a href="mailto:manirujjamanakash@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/gmail-new.png" alt="denkogeeash" height="40" width="40" /></a>&nbsp;<a href="https://twitter.com/denkogee" target="blank" ><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="denkogeeash" height="40" width="40" /></a> &nbsp;<a href="https://www.linkedin.com/in/denkogeeash/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="denkogeeash" height="40" width="40" /></a> &nbsp;<a href="https://stackoverflow.com/users/5543577/maniruzzaman-akash" target="blank"><img align="center" src="https://img2.pngio.com/stackoverflow-icon-stack-overflow-png-512_512.png" alt="705293/denkogeeash" height="40" width="40" /></a> &nbsp;<a href="https://fb.com/maniruzzaman.akash" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" alt="denkogeeash" height="40" width="40" /></a> &nbsp;<a href="https://denkogeeash.medium.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@denkogeeash" height="40" width="40" /></a> &nbsp;<a href="https://www.youtube.com/channel/UCHNblf0ynrP1DvoIO-ikgGg" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" alt="denkogeeash" height="40" width="40" /></a> &nbsp;<a href="https://www.hackerrank.com/Maniruzzaman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="denkogeeash" height="40" width="40" /></a></p> -->
 <!-- <br />
 
 If you like my work you may consider buying me a ☕ / 🍕
 
-<a href="https://www.patreon.com/maniruzzaman" target="_blank" title="Buy Me A Coffee"> <img src="https://camo.githubusercontent.com/45ce6667a35b63fd6a1ba6978d030a7f52ff5b1b262c5c8aa3ece29afc469ac8/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d7265642e706e67" alt="ManiruzzamanAkash" width="200" />
+<a href="https://www.patreon.com/maniruzzaman" target="_blank" title="Buy Me A Coffee"> <img src="https://camo.githubusercontent.com/45ce6667a35b63fd6a1ba6978d030a7f52ff5b1b262c5c8aa3ece29afc469ac8/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d7265642e706e67" alt="denkogeeash" width="200" />
  </a> -->
 
 🙏 for reading!
