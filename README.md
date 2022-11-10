@@ -62,7 +62,7 @@
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denkogee&theme=radical" alt="denkogee" /></p>
 
-[![Denkogee's Wakatime Stats(Last 7 Days)](https://github-readme-stats.vercel.app/api/wakatime?username=denkogee&layout=compact)](https://wakatime.com/@denkogee)
+<!-- [![Denkogee's Wakatime Stats(Last 7 Days)](https://github-readme-stats.vercel.app/api/wakatime?username=denkogee&layout=compact)](https://wakatime.com/@denkogee) -->
 
 <!-- ### 📺 Find Me in YouTube -->
 
