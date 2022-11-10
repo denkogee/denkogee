@@ -1,23 +1,19 @@
 # denkogee
- My github profile
-
-
-
 
 <h1 align="center">Hi 👋 I'm David Egbochuo</h1>
 
-<h5 align="center">A passionate web/app developer who writes stuff with PHP, Laravel, React, React Native, Vue, Wordpress, Bootstrap, Tailwind CSS and more...</h5>
+<h5 align="center">A passionate web/app developer who writes stuff with PHP, Laravel, React, React Native, Vue, Bootstrap, Tailwind CSS and more...</h5>
 
 
 - 🔭  &nbsp; I’m currently working at  **[IBN](https://ibn.com.ng).**
 
-- ✎ &nbsp; I’m currently working with  **PHP**, **Laravel**, **Javascript**, **React**, **Redux**, **Next JS**, **Wordpress**, **Gutenberg Block**, **Typescript**, **React Native**, **Vue JS**, **Node JS** and **Tailwind CSS**
+- ✎ &nbsp; I’m currently working with  **PHP**, **Laravel**, **Javascript**, **React**, **Redux**, **React Native**, **Vue JS**, **Node JS** and **Tailwind CSS**
 
-- ⭆  &nbsp; I’m currently learning **GraphQL**, **GoLang**, **Docker**, **DevOps**, **Nest JS**
+- ⭆  &nbsp; I’m currently learning **GraphQL**, **GoLang**, **Docker**, **DevOps**, **Nest JS**, **Typescript**
 
 - 👯  &nbsp; I’m looking to collaborate on **Open Source Projects/Libraries with PHP and JavaScript**
 
-<!-- - 👨‍💻  &nbsp; Some of my projects are available at [https://github.com/ManiruzzamanAkash?tab=repositories](https://github.com/ManiruzzamanAkash?tab=repositories) -->
+- 👨‍💻  &nbsp; Some of my projects are available at [https://github.com/denkogee?tab=repositories](https://github.com/denkogee?tab=repositories)
 
 - 💬  &nbsp;Ask me anything about **PHP, JavaScript, Laravel, React, Vue, Bootstrap, Tailwind, MySQL**
 
