@@ -48,11 +48,11 @@
 <img src="https://img.icons8.com/color/48/000000/redis.png" alt="redis" width="40" height="40"/></a></p>
 
 <br />
-<!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManiruzzamanAkash&show_icons=true&locale=en&layout=compact&theme=radical" alt="ManiruzzamanAkash" /></p> -->
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denkogee&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="denkogee" /></p> 
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ManiruzzamanAkash&show_icons=true&locale=en&theme=radical" alt="ManiruzzamanAkash" /></p> -->
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=denkogee&show_icons=true&locale=en&theme=radical" alt="denkogee" /></p> -->
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManiruzzamanAkash&theme=radical" alt="ManiruzzamanAkash" /></p> -->
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denkogee&theme=radical" alt="denkogee" /></p>
 
 
 <!-- ### 📺 Find Me in YouTube -->
