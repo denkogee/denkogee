@@ -62,7 +62,8 @@
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denkogee&theme=radical" alt="denkogee" /></p>
 
-[![Denkogee's Wakatime Stats(Last 7 Days)](https://github-readme-stats.vercel.app/api/wakatime?username=denkogee&layout=compact)](https://wakatime.com/@denkogee)
+<!-- [![Denkogee's Wakatime Stats(Last 7 Days)](https://github-readme-stats.vercel.app/api/wakatime?username=denkogee&layout=compact)](https://wakatime.com/@denkogee) -->
+[![wakatime](https://wakatime.com/badge/user/aafe8063-2211-4e24-bc9b-22ba2e99666f.svg)](https://wakatime.com/@aafe8063-2211-4e24-bc9b-22ba2e99666f)
 
 <!-- ### 📺 Find Me in YouTube -->
 
